@@ -2,9 +2,9 @@
 Hi, I'm Tom ([he/him](https://www.mypronouns.org/he-him)). I love to write SQL, share knowledge about SQL Server and give people a helping hand. I'm also super passionate about positive parenting.  
 
 Currently working on:
-- Leaving [Key Travel](https://www.keytravel.com/) where I've worked as a systems analyst for the past six years
-- Joining [bet365](https://github.com/bet365) as an MIS developer to progress my SQL skills
+- Started at [bet365](https://github.com/bet365) as an MIS developer
 - Making progress on my empathy and tolerance project [Better Living Through Empathy](https://github.com/tgburgin/better-living-through-empathy)
+- My first SQL conference presentation, hoping to present at [GroupBy](https://groupby.org/)
 
 Find me on:  
 - Facebook [@tgburgin](https://www.facebook.com/tgburgin)
